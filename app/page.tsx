@@ -994,7 +994,7 @@ function Footer() {
         </div>
 
         <div className="mt-8 flex flex-col items-center justify-between gap-3 border-t border-white/[0.08] pt-6 text-center text-[10px] text-[#77717f] sm:mt-12 sm:flex-row sm:pt-7">
-          <p>© {new Date().getFullYear()} Buildspire. All rights reserved.</p>
+          <p>© 2026 Buildspire. All rights reserved.</p>
           <p>Built for what's next.</p>
         </div>
       </div>
